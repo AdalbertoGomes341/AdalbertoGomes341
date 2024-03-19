@@ -2,4 +2,4 @@
 
 ## Welcome to my profile page 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdalbertoGomes341&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<img height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /> <img height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /> <img height ="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
