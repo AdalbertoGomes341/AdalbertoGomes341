@@ -1,4 +1,5 @@
-### Hey there! 
+### Hey there!
+
 ## Welcome to my profile page 👋
 
 Here are some ideas to get you started:
